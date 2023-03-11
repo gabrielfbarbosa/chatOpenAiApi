@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Biel/API_GPT/android ERRO/proj[ERRO]/app/src/main/res/drawable/bubble_api_message.xml" value="0.3395" />
+        <entry key="..\:/Biel/API_GPT/android ERRO/proj[ERRO]/app/src/main/res/drawable/bubble_user_message.xml" value="0.3395" />
+        <entry key="..\:/Biel/API_GPT/android ERRO/proj[ERRO]/app/src/main/res/drawable/chat_border.xml" value="0.1795" />
+        <entry key="..\:/Biel/API_GPT/android ERRO/proj[ERRO]/app/src/main/res/drawable/input_text_border.xml" value="0.1795" />
+        <entry key="..\:/Biel/API_GPT/android ERRO/proj[ERRO]/app/src/main/res/drawable/send_icon.xml" value="0.1795" />
+        <entry key="..\:/Biel/API_GPT/android ERRO/proj[ERRO]/app/src/main/res/layout/activity_splash.xml" value="0.3671875" />
+        <entry key="..\:/Biel/API_GPT/android ERRO/proj[ERRO]/app/src/main/res/layout/api_message.xml" value="0.3333333333333333" />
+        <entry key="..\:/Biel/API_GPT/android ERRO/proj[ERRO]/app/src/main/res/layout/fragment_conversation.xml" value="0.3333333333333333" />
+        <entry key="..\:/Biel/API_GPT/android ERRO/proj[ERRO]/app/src/main/res/layout/response_message.xml" value="0.36614583333333334" />
+        <entry key="..\:/Biel/API_GPT/android ERRO/proj[ERRO]/app/src/main/res/layout/send_menssage.xml" value="0.3671875" />
+        <entry key="..\:/Biel/API_GPT/android ERRO/proj[ERRO]/app/src/main/res/layout/user_message.xml" value="0.3333333333333333" />
+        <entry key="..\:/Biel/API_GPT/android/project/app/src/main/res/drawable/chat_border.xml" value="0.3395" />
+        <entry key="..\:/Biel/API_GPT/android/project/app/src/main/res/drawable/ic_baseline_send_24.xml" value="0.3395" />
+        <entry key="..\:/Biel/API_GPT/android/project/app/src/main/res/drawable/ic_fofoca.xml" value="0.3395" />
+        <entry key="..\:/Biel/API_GPT/android/project/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3395" />
+        <entry key="..\:/Biel/API_GPT/android/project/app/src/main/res/drawable/input_text_border.xml" value="0.3395" />
+        <entry key="..\:/Biel/API_GPT/android/project/app/src/main/res/drawable/send_icon.xml" value="0.3395" />
+        <entry key="..\:/Biel/API_GPT/android/project/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Biel/API_GPT/android/project/app/src/main/res/layout/activity_splash.xml" value="0.17857142857142858" />
+        <entry key="..\:/Biel/API_GPT/android/project/app/src/main/res/layout/fragment_conversation.xml" value="0.3671875" />
+        <entry key="..\:/Biel/API_GPT/android/project1.0/app/src/main/res/layout/api_message.xml" value="0.3671875" />
+        <entry key="..\:/Biel/API_GPT/android/project1.0/app/src/main/res/layout/fragment_conversation.xml" value="0.30978260869565216" />
+        <entry key="..\:/Biel/API_GPT/android/project1.0/app/src/main/res/layout/user_message.xml" value="0.30978260869565216" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
